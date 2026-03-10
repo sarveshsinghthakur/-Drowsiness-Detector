@@ -1,6 +1,6 @@
-streamlit
-opencv-python
+streamlit==1.32.0
+opencv-python-headless
 numpy
-dlib
+dlib==19.24.2
 imutils
 scipy
